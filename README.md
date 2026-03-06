@@ -1,4 +1,4 @@
-# Real-Time Patient Flow Analytics on Azure
+# Real-Time Hospital Patient Flow & Capacity Analytics on Azure
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure&style=flat-square)
 ![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-orange?logo=apache-spark&style=flat-square)
