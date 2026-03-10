@@ -16,7 +16,7 @@ producer = KafkaProducer(
     sasl_mechanism="PLAIN",
     sasl_plain_username="$ConnectionString",
     sasl_plain_password=CONNECTION_STRING,
-    api_version=(1, 1, 0),   # ✅ IMPORTANT
+    api_version=(1, 1, 0),   
     value_serializer=lambda v: json.dumps(v).encode('utf-8')
 )
 
